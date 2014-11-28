@@ -50,3 +50,12 @@ span {
 	line-height: 23px;	
 	margin: 0 0 23px 0;	
 	}	
+
+a{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 23px;	
+	margin: 0 0 23px 0;	
+	color:gray;
+	}	
