@@ -1,0 +1,50 @@
+img{
+  height: 128px;
+  width: 256px;
+}
+span{
+  font-size:121px;
+}
+
+#imagen{
+  display:inline-block;
+}
+
+#markov{
+  display:inline-block;
+  margin-left: 30px;
+}
+
+body {
+	color: #676758;
+	margin: 0;
+	padding: 0;
+	background-color: #f2f2e2;
+	text-align: center;
+	}
+section {
+	width: 470px;
+	padding: 0px;
+	height: 310px;
+  top: 5px;
+  left:5px;
+	border: 1px solid #cbcbb6;
+	}
+	#section .valign {
+	  display: table-cell;
+	  vertical-align: middle;
+		}
+h1 {
+	font-family: 'Amatic SC', cursive;
+	font-weight: 700;
+	line-height: 46px;
+	font-size: 46px;
+	margin: 0 0 23px 0;		
+	}	
+span {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 121px;
+	font-weight: 700;
+	line-height: 23px;	
+	margin: 0 0 23px 0;	
+	}	
